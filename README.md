@@ -22,4 +22,4 @@ Advices :
 
 Thank you for taking part in this research. For feedback, further questions, or deeper discussion, please feel free to contact me via email at dimasariyanto830@gmail.com or via LinkedIn at https://www.linkedin.com/in/dimas-ariyanto-a72038327/.
 
-#python #personalloan #classification /smote
+##python ##personalloan ##classification ##smote
